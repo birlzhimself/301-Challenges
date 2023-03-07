@@ -1,8 +1,8 @@
 !/bin/bash
 
-#Script: Ops Challenge04: Conditionals in Menu Systems
-#Purpose: Gives you an option
-#Why: Because you deserve one!
+#Script:    Ops Challenge04: Conditionals in Menu Systems
+#Purpose:   Gives you an option
+#Why:       Because you deserve one!
 
 while true; do
 echo “Please select an option:”
