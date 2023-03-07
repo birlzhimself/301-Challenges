@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Spript Ops Challenge: Class 03 – Change Permissions
-#Purpose Change user premissions
-#Why Because that’s the challenge!
+#Spript:     Ops Challenge:Class 03 – Change Permissions
+#Purpose:    Change user premissions
+#Why:        Because that’s the challenge!
 
 #Prompt the user for the directory path
 read -p "Enter the directory path: " directory_path
