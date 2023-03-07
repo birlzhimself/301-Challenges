@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+#Script:    Ops Challenge: Class 07 - Python Collections 
+#Purpose:   Create a Python script that generates all directories, sub-directories and files for a user-provided directory path. 
+#Why:       Learn how to import OS sistem to Script
+
 import os
 
 def generate_directory_info(path):
