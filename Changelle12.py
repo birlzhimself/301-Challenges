@@ -1,4 +1,8 @@
-import requests
+#!/usr/bin/python3
+
+#Script:   Ops Challenge: Class 12 - Python Collections 
+#Purpose:  Prompt the user to type a string input as the variable for your destination URL.
+#Why:      Learn how to print information to the screen depending on if the condition is met.import requests
 
 # Prompt the user to enter a destination URL
 url = input("Enter the destination URL: ")
